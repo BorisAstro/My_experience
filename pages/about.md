@@ -22,14 +22,12 @@ Behind that sits a decade in the part of the chain where centimeter accuracy is 
 
 | Year | Degree | Institution | Dissertation/Thesis |
 |------|--------|-------------|---------------------|
-| 2021 | **M.Sc.** in Higher Education — Scientific Research Methodology | CEPIES, Universidad Mayor de San Andrés | *Summa Cum Laude · 2,400 h* |
+| 2021 | **M.Sc.** in Higher Education — Scientific Research Methodology | CEPIES, Universidad Mayor de San Andrés | Title: "Estrategia didáctica basada en el “Software como servicio” para el fortalecimiento del Proceso de Enseñanza y Aprendizaje en la Carrera de Ingeniería Geográfica – Escuela Militar de Ingeniería" *Summa Cum Laude* |
 | 2019 | **Postgraduate Diploma** in Research Methodology for Higher Education | CEPIES, Universidad Mayor de San Andrés | |
 | 2018 | **Postgraduate Diploma** in Planning and Development of Professional Competences in Higher Education | Escuela Militar de Ingeniería (EMI) | |
 | 2015 | **Postgraduate Diploma** in Higher Education — University Teaching | CEPIES, Universidad Mayor de San Andrés | |
 | 2015 | **Postgraduate Diploma** in Water Management and Climate Change Adaptation Planning | Universidad de la Cordillera | |
-| 2014 | **B.Sc.** in Geographic Engineering (Geomatics) | Escuela Militar de Ingeniería (EMI) | *Thesis defended with honors — 9.80 / 10* |
-
-Professional registry: **R.N.I. 32.280**.
+| 2014 | **B.Sc.** in Geographic Engineering (Geomatics) | Escuela Militar de Ingeniería (EMI) | Title "PROPUESTA PARA LA IMPLEMENTACIÓN DE LA PROYECCIÓN LTM-PTL CON PARÁMETROS NORMALIZADOS PARA BOLIVIA" *Thesis defended with honors — 9.80 / 10* |
 
 ---
 
@@ -127,6 +125,6 @@ Municipal planimetry production for Cobija (Instituto Geográfico Militar); remo
 | Language | Level |
 |----------|-------|
 | Spanish | Native |
-| English | Professional working proficiency — daily technical work in English with a US employer (Cambridge B1, TOEFL iBT) |
+| English | Professional working proficiency — daily technical work in English with a US employer (Cambridge B1 2014, TOEFL iBT 2016) |
 | German | A1 (Goethe Institut) |
 | Japanese | Basic — aptitude level 4 (2008) |
