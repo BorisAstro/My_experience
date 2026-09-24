@@ -22,12 +22,18 @@ Behind that sits a decade in the part of the chain where centimeter accuracy is 
 
 | Year | Degree | Institution | Dissertation/Thesis |
 |------|--------|-------------|---------------------|
-| 2021 | **M.Sc.** in Higher Education — Scientific Research Methodology | CEPIES, Universidad Mayor de San Andrés | Title: "Estrategia didáctica basada en el “Software como servicio” para el fortalecimiento del Proceso de Enseñanza y Aprendizaje en la Carrera de Ingeniería Geográfica – Escuela Militar de Ingeniería" *Summa Cum Laude* |
+| 2021 | **M.Sc.** in Higher Education — Scientific Research Methodology | CEPIES, Universidad Mayor de San Andrés | *Thesis: "A Software-as-a-Service didactic strategy for strengthening teaching and learning in Geographic Engineering, EMI" · Summa Cum Laude* |
 | 2019 | **Postgraduate Diploma** in Research Methodology for Higher Education | CEPIES, Universidad Mayor de San Andrés | |
-| 2018 | **Postgraduate Diploma** in Planning and Development of Professional Competences in Higher Education | Escuela Militar de Ingeniería (EMI) | |
+| 2018 | **Postgraduate Diploma** in Higher Education | Escuela Militar de Ingeniería (EMI) | *Planning and development of professional competences* |
 | 2015 | **Postgraduate Diploma** in Higher Education — University Teaching | CEPIES, Universidad Mayor de San Andrés | |
-| 2015 | **Postgraduate Diploma** in Water Management and Climate Change Adaptation Planning | Universidad de la Cordillera | |
-| 2014 | **B.Sc.** in Geographic Engineering (Geomatics) | Escuela Militar de Ingeniería (EMI) | Title "PROPUESTA PARA LA IMPLEMENTACIÓN DE LA PROYECCIÓN LTM-PTL CON PARÁMETROS NORMALIZADOS PARA BOLIVIA" *Thesis defended with honors — 9.80 / 10* |
+| 2015 | **Postgraduate Diploma** in Water Management | Universidad de la Cordillera | *Planning for climate change adaptation* |
+| 2014 | **B.Sc.** in Geographic Engineering (Geomatics) | Escuela Militar de Ingeniería (EMI) | *Thesis: "Proposal for the implementation of the LTM-PTL projection with standardized parameters for Bolivia" · defended with honors, 9.80 / 10* |
+
+**Original titles (Spanish).** Degrees, institutions and thesis titles are translated from the official
+Spanish records; proper names are kept in Spanish. M.Sc. thesis: *"Estrategia didáctica basada en el
+Software como Servicio para el fortalecimiento del Proceso de Enseñanza y Aprendizaje en la Carrera de
+Ingeniería Geográfica – Escuela Militar de Ingeniería"*. B.Sc. thesis: *"Propuesta para la implementación
+de la proyección LTM-PTL con parámetros normalizados para Bolivia"*.
 
 ---
 

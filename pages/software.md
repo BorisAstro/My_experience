@@ -32,6 +32,15 @@ Licensed in house: Agisoft Metashape and LiDAR360. The rest I work with in clien
 
 ---
 
+## Own Development
+
+| Tool | What it does |
+|------|--------------|
+| **QGIS plugin** (in-house) | Bundles the geoprocessing tools and Python scripts I use most in production into a single QGIS plugin |
+| **Inpho ⇄ Metashape project converter** | Translates photogrammetric project definitions between Trimble Inpho and Agisoft Metashape in both directions, so a block can move between the two without rebuilding it |
+
+---
+
 ## Sensors & Field Equipment
 
 | Equipment | Role |
