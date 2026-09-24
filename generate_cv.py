@@ -257,7 +257,7 @@ def gen_preamble():
   author: (
     firstname: "Boris R.",
     lastname: "Fernandez Astro",
-    email: "fernandezastro@gmail.com",
+    email: "astrogeomatica@gmail.com",
     phone: "(+591) 73731060",
     address: "La Paz, Bolivia",
     positions: (
