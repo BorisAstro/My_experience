@@ -55,7 +55,7 @@ Detrás de eso hay una década en la parte de la cadena donde realmente se decid
 | 2022--2024 | Consultor especialista en LiDAR y fotogrametría, Servicio Nacional de Aerofotogrametría |
 | 2019--2021 | Responsable de información espacial / cartografía, Wildlife Conservation Society Bolivia |
 | Dic 2015--Dic 2018 | Jefe de la Sección Evaluación de Proyectos, Servicio Nacional de Aerofotogrametría |
-| 2013--2015 | Consultor en SIG y teledetección — FAO, OTCA, Instituto Geográfico Militar, NetDesign-IT |
+| 2014--2015 | Consultor en SIG y teledetección — FAO, OTCA, Instituto Geográfico Militar, NetDesign-IT |
 
 ### Especialista SIG — Cartografía HD para vehículos autónomos
 
@@ -104,7 +104,7 @@ Detrás de eso hay una década en la parte de la cadena donde realmente se decid
 
 ### Consultor en SIG y teledetección
 
-**FAO · OTCA · Instituto Geográfico Militar · NetDesign-IT** · 2013 – 2015
+**FAO · OTCA · Instituto Geográfico Militar · NetDesign-IT** · 2014 – 2015
 
 Producción de planimetría municipal de Cobija (Instituto Geográfico Militar); depuración de datos de teledetección para el Mapa de Bosques 2013 (FAO y Dirección General de Gestión y Desarrollo Forestal); monitoreo de deforestación y cambio de uso del suelo en el bosque panamazónico (Sala de Observación Bolivia – OTCA); digitalización técnica para las mesas de trabajo "Caminos y Carreteras Departamentales", Gobierno Autónomo Departamental de La Paz.
 
