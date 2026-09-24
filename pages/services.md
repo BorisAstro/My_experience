@@ -1,57 +1,29 @@
 ---
 title: Services
-description: Professional and institutional service activities.
+description: Institutional and academic service roles in Bolivian universities.
 keywords:
-  - Editorial Services
-  - Peer Review
+  - Academic Service
   - Committees
-  - Professional Service
+  - Thesis Review
 ---
 
 # Services
 
-Dr. Doe serves the academic community through editorial roles, proposal review, conference organization, and institutional leadership.
-
-## Professional Services
-
-| Period | Role |
-|--------|------|
-| 2024--present | Associate Editor, *Journal of Data Science* |
-| 2023--present | Program Committee Member, International Conference on Machine Learning (ICML) |
-| 2022--present | Reviewer, *Nature Methods*, *IEEE TPAMI*, *JMLR* |
-
----
+Academic service roles at the institutions where I teach: program governance, curriculum design and thesis review.
 
 ## Institutional Services
 
-### Department of Computer Science, Example University
+### Escuela Militar de Ingeniería (EMI), Geographic Engineering
 
-| Period | Role |
-|--------|------|
-| 2025--present | Graduate Admissions Committee Chair |
-| 2024--present | Curriculum Committee Member |
-| 2023--present | Seminar Series Organizer |
+| Role | Scope |
+|------|-------|
+| Program Operational Lead | Geographic Engineering undergraduate program |
+| Curriculum redesign committee member | Undergraduate curriculum |
+| Career council member | Program governance |
+| Reviewer on undergraduate thesis defense boards | Grade-work defenses |
 
-### College of Sciences, Example University
+### Universidad Mayor de San Andrés (UMSA), Graduate Unit of Geographic Engineering
 
-| Period | Role |
-|--------|------|
-| 2024--present | Research Computing Advisory Board Member |
-| 2023--2024 | Faculty Search Committee Member |
-
----
-
-## Disciplinary Services
-
-### Conference Organization
-
-| Year | Role |
-|------|------|
-| 2026 | Session Chair, International Data Science Conference |
-| 2025 | Workshop Organizer, PyCon |
-| 2024 | Program Committee, SciPy Conference |
-
-### Proposal Review
-
-- NSF Panel Reviewer (2024, 2025)
-- DOE Proposal Reviewer (2023)
+| Role | Scope |
+|------|-------|
+| Examining board member | M.Sc. thesis proposal defenses |

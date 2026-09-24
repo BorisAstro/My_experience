@@ -1,89 +1,40 @@
 ---
 title: Software
-description: Open-source software projects created and maintained by Jane Doe.
+description: Software, toolchains and sensors used in HD mapping, LiDAR, photogrammetry and geodesy production.
 keywords:
-  - Open-source Software
+  - Software
+  - Terrasolid
+  - Lanelet2
+  - Photogrammetry
+  - GIS
   - Python
-  - Data Science
 ---
 
-# Open-Source Software
+# Software & Technical Stack
 
-Dr. Doe is the creator and maintainer of several open-source software packages for data science and machine learning.
-
----
-
-## Featured Projects
-
-::::{grid} 2 2 4 4
-
-:::{card}
-:link: https://mystmd.org
-![mystmd](images/myst.webp)
-+++
-**MyST**
-:::
-
-:::{card}
-:link: https://jupyterbook.org
-![jupyter-book](images/jupyter-book.webp)
-+++
-**Jupyter Book**
-:::
-
-:::{card}
-:link: https://jupyter.org
-![jupyter](images/jupyter.webp)
-+++
-**Jupyter**
-:::
-
-:::{card}
-:link: https://python.org
-![python](images/python.webp)
-+++
-**Python**
-:::
-
-::::
+The toolchain I work in daily, from lane-level HD map production to airborne LiDAR processing, photogrammetry, geodetic control and automation.
 
 ---
 
-## Python Packages
+## Software
 
-::::{grid} 1 2 3 3
-
-:::{card} project-alpha
-:link: https://github.com/username/project-alpha
-A Python package for data analysis and visualization
-:::
-
-:::{card} project-beta
-:link: https://github.com/username/project-beta
-Machine learning utilities for scientific computing
-:::
-
-:::{card} project-gamma
-:link: https://github.com/username/project-gamma
-Cloud computing tools for large-scale data processing
-:::
-
-::::
+| Domain | Tools and methods |
+|--------|-------------------|
+| HD mapping / AV | **Lanelet2 (OSM)**, JOSM, lane-level network assembly, lane boundaries, virtual and turning lines, intersection cut lines, slicing at condition changes, regulatory associations, GeoJSON layer interchange, QA/QC against automated validation checks, corridor handoff and connectivity, route-stationing tiling specifications |
+| Point clouds | **Terrasolid suite** (TerraScan, TerraMatch, TerraModeler, TerraPhoto) on MicroStation and Spatix, TopoDOT, LiDAR360, LAStools, Leica Cyclone 3DR, Trimble RealWorks, strip adjustment, trajectory management, classification and ground filtering, breaklines, DTM/DSM |
+| Photogrammetry | **Trimble Inpho** (ApplicationsMaster, UASMaster), ERDAS IMAGINE 16.7 with ORIMA-LPS, Catalyst Professional (PCI Geomatica), Agisoft Metashape, RealityCapture, aerial triangulation, stereo-satellite block adjustment, orthomosaics, SfM, UAV/RPAS |
+| Geodesy and GNSS | RTK / PPK / **PPP** (CSRS-PPP, MARGEN, ITRF2020), Trimble Business Center, Leica Infinity, Inertial Explorer, Helmert transformations, site calibration, least-squares network adjustment, geoid QC, CRS/EPSG and datum management, author of the LTM-PTL local projection |
+| GIS and remote sensing | **ArcGIS Pro**, QGIS, Global Mapper, Google Earth Engine, eCognition Developer (OBIA and deep learning), PostGIS, GeoServer, spatial databases and SDI, CAD thematic cartography |
+| Programming | **Python** (ArcPy, PyQGIS, GDAL/OGR, geospatial libraries), JavaScript (Google Earth Engine), Excel VBA, SQL, PHP, HTML/CSS, AWS EC2 GPU virtual workstations, cloud processing pipelines |
+| 3D and visualization | Blender and BlenderGIS, ESRI CityEngine, Unreal Engine (geospatial), geospatial VR/XR, 3D-printing model preparation from DTM/DSM and point clouds, animation rendering |
 
 ---
 
-## Web Apps
+## Sensors & Field Equipment
 
-::::{grid} 1 2 3 3
-
-:::{card} data-dashboard
-:link: https://github.com/username/data-dashboard
-Interactive data visualization dashboard
-:::
-
-:::{card} ml-explorer
-:link: https://github.com/username/ml-explorer
-Machine learning model exploration tool
-:::
-
-::::
+| Equipment | Role |
+|-----------|------|
+| **Leica ALS70-HP / ALS80-HP** with RCD30 metric camera | Airborne sensor operator on 18 campaigns, including the ALS80-HP calibration flight |
+| Leica CloudPro, IPAS CO+, FramePro, Inertial Explorer | Airborne LiDAR mission control, trajectory and camera data processing |
+| DJI Matrice 300 RTK, Phantom 4 RTK | UAV/RPAS photogrammetric acquisition and training |
+| Leica FlexLine TS06 total station, differential GNSS | Ground control, checkpoints and topographic survey |
