@@ -12,7 +12,7 @@ keywords:
 
 Open to remote HD mapping, LiDAR production, photogrammetry and geospatial engineering work, and to teaching and training engagements.
 
-**Email:** [fernandezastro@gmail.com](mailto:fernandezastro@gmail.com) · [boris@astrogeomatics.com](mailto:boris@astrogeomatics.com)
+**Email:** [astrogeomatica@gmail.com](mailto:astrogeomatica@gmail.com)
 
 **Phone:** +591 73731060
 

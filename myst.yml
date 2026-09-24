@@ -5,7 +5,7 @@ project:
   # thumbnail: images/profile-thumbnail.webp
   # authors:
   #   - name: Boris R. Fernandez Astro
-  #     email: fernandezastro@gmail.com
+  #     email: astrogeomatica@gmail.com
   #     affiliations:
   #       - Astro Geomática
   copyright: '2026'
@@ -59,4 +59,4 @@ site:
       [CV (PDF)](cv.pdf) |
       [LinkedIn](https://www.linkedin.com/in/boris-roger-fernandez-astro-893594b4/) |
       [Upwork](https://www.upwork.com/freelancers/~01b9854a9627590bb9) |
-      [fernandezastro@gmail.com](mailto:fernandezastro@gmail.com)
+      [astrogeomatica@gmail.com](mailto:astrogeomatica@gmail.com)

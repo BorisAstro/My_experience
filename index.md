@@ -25,7 +25,7 @@ Founder & Principal Geospatial Engineer, Astro Geomática
 
 La Paz, Bolivia · 16°30′S 68°09′W · UTC−4
 
-[fernandezastro@gmail.com](mailto:fernandezastro@gmail.com) | [boris@astrogeomatics.com](mailto:boris@astrogeomatics.com)
+[astrogeomatica@gmail.com](mailto:astrogeomatica@gmail.com)
 
 **Focus:** Lanelet2 lane networks for autonomous vehicles, airborne and mobile LiDAR, photogrammetry, geodesy and map projections, 3D geospatial workflows
 
