@@ -19,7 +19,7 @@ description: Boris R. Fernandez Astro builds lane-level Lanelet2 HD maps for aut
 
 **HD Map Engineer** | **LiDAR & Photogrammetry Specialist**
 
-GIS Specialist, Gatik AI Inc. — HD mapping for autonomous vehicles
+GIS Specialist, U.S. based company — HD mapping for autonomous vehicles
 
 Founder & Principal Geospatial Engineer, Astro Geomática
 
@@ -71,7 +71,7 @@ Teaching photogrammetry, LiDAR & geodesy
 ::::{grid} 1 1 3 3
 
 :::{card} Lanelet2 lane networks for autonomous trucking
-Phoenix metro corridors, Arizona. Feature extraction from mobile-mapping point clouds through full lane-network assembly, intersection slicing and regulatory associations.
+Public-road corridors in the United States. Feature extraction from mobile-mapping point clouds through full lane-network assembly, intersection slicing and regulatory associations.
 +++
 Lanelet2 / OSM · JOSM · MMS point clouds · GeoJSON
 :::
@@ -145,6 +145,6 @@ Projects, courses and training by year
 - **2026-06-16** - Completed "Interactive web maps with PostGIS, GeoServer, Node.js and Angular", Graduate School, UPEA
 - **2025-11-17** - Taught the Python for geospatial technologies module, Graduate Unit of Geographic Engineering, UMSA
 - **2025-09-01** - Closed the LiDAR, photogrammetry and AI point cloud classification course for Educare Internacional, Peru
-- **2025-07-12** - Joined Gatik AI Inc. as GIS Specialist for HD mapping of autonomous-vehicle corridors in the Phoenix metro area
+- **2025-07-12** - Joined a U.S. autonomous trucking company as GIS Specialist for HD mapping of public-road corridors
 
 [See all news →](pages/news)
