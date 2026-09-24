@@ -29,6 +29,7 @@ La Paz, Bolivia · 16°30′S 68°09′W · UTC−4
 
 **Focus:** Lanelet2 lane networks for autonomous vehicles, airborne and mobile LiDAR, photogrammetry, geodesy and map projections, 3D geospatial workflows
 
+[astrogeomatics.com](https://astrogeomatics.com/) |
 [CV (PDF)](cv.pdf) |
 [LinkedIn](https://www.linkedin.com/in/boris-roger-fernandez-astro-893594b4/) |
 [Upwork](https://www.upwork.com/freelancers/~01b9854a9627590bb9)
@@ -41,6 +42,14 @@ La Paz, Bolivia · 16°30′S 68°09′W · UTC−4
 ## By the Numbers
 
 ::::{grid} 2 2 3 3
+
+:::{card} 250 km
+3D HD cartography delivered for autonomous trucking corridors
+:::
+
+:::{card} 4,413 ha
+Airborne LiDAR classified to 85 % with deep learning (Columbus, Ohio)
+:::
 
 :::{card} 385 km²
 ALS LiDAR processed as project manager

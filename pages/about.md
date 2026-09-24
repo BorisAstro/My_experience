@@ -54,6 +54,7 @@ Professional registry: **R.N.I. 32.280**.
 **U.S. based company** · remote · USA · Jul 2025 – present
 
 - Produce lane-level **HD maps in Lanelet2 / OSM format** for public-road autonomous trucking corridors, working in JOSM and in the client's web platform.
+- Delivered **250 km of 3D HD cartography** along autonomous trucking corridors.
 - Extract road features from mobile-mapping LiDAR point clouds and co-registered imagery: lane markings, curbstones, road edges, stop lines, traffic signs and traffic lights.
 - Assemble complete lane networks — boundaries, virtual and turning lines, cut lines at every intersection, slicing at condition changes — and build regulatory associations linking lanes to signals, stop lines and signage.
 - Authored a **route-stationing tile-naming specification** for MMS point clouds — mile-based chainage along the route centerline and LiDAR trajectory, 2 GB per-tile ceiling — replacing square UTM-grid naming so tiling follows acquisition and route planning.
@@ -65,6 +66,7 @@ Professional registry: **R.N.I. 32.280**.
 
 - **385 km² of ALS LiDAR and photogrammetric processing** as project manager: LAS block creation, trajectory management, TerraMatch strip adjustment, DTM from classified point cloud, orthophoto mosaic and CAD thematic cartography.
 - **1,096 km² of stereo-satellite DEM and orthomosaics** as project manager: nine AOIs over Bolivia's main airports, block adjustment with GCPs and check points, breaklines, edited DEM, 1 m contours and 50 cm orthoimagery.
+- **4,413 ha of airborne LiDAR over Columbus, Ohio (USA)**: 85 % of the point cloud classified automatically, combining classification and segmentation methods with deep learning.
 - **LiDAR classification and segmentation outsourcing** for engineering clients in Peru, including electrical transmission-corridor inspection datasets.
 - 3D geospatial modeling: 2D CAD planimetry extruded to 3D city models in ESRI CityEngine and BlenderGIS with rendered animations, and printable 3D models derived from imagery, LiDAR, DTM and DSM.
 - AWS EC2 GPU virtual workstations for processing peaks; Python automation across ArcGIS, QGIS and photogrammetric packages.
