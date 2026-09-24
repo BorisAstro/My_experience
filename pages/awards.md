@@ -1,22 +1,18 @@
 ---
 title: Awards
-description: Awards and honors recognizing contributions to open-source software, research, and education.
+description: Awards, distinctions and commendations in geomatics, research and teaching.
 keywords:
   - Awards
   - Honors
-  - Recognition
+  - Distinctions
 ---
 
 # Awards & Honors
 
-A selection of awards and honors recognizing contributions to open-source software, research, and education.
-
 | Year | Award |
 |------|-------|
-| 2026 | Outstanding Research Award, Example University |
-| 2025 | Best Paper Award, International Data Science Conference |
-| 2024 | Open Source Contributor Award, Open Source Foundation |
-| 2023 | Early Career Research Award, College of Sciences, Example University |
-| 2022 | Graduate Teaching Award, Department of Computer Science, Example University |
-| 2021 | NSF CAREER Award |
-| 2020 | Best Dissertation Award, Example University |
+| 2018--2021 | Teaching Merit Diploma (four consecutive years), Universidad Loyola |
+| 2016 | Letter of commendation, Servicio Nacional de Aerofotogrametría |
+| 2015 | **1st place, Francisco Coello International Award, 16th edition** — Escuela Politécnica Superior, Universidad de Jaén, Spain |
+| 2014 | Thesis defense approved with honors, grade 9.80 / 10, Escuela Militar de Ingeniería |
+| 2012 | Academic excellence scholarship, Escuela Militar de Ingeniería |

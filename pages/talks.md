@@ -1,66 +1,61 @@
 ---
 title: Talks
-description: Workshops, keynotes, and invited talks on data science and open-source software.
+description: Workshops, short courses and invited talks on LiDAR, photogrammetry, cadastre and map projections.
 keywords:
   - Workshops
-  - Keynotes
   - Invited Talks
-  - Conferences
-  - Presentations
+  - LiDAR
+  - Photogrammetry
+  - Cadastre
 ---
 
 # Presentations
 
-Dr. Doe regularly gives talks, workshops, and keynote presentations at conferences and universities on topics including open-source software, data science, and machine learning.
+Workshops and short courses I have run for companies, professional bodies and training institutes, and talks given at universities and conferences.
 
 ## Workshop Host
 
-:::{dropdown} 2026
+:::{dropdown} 2025
 :open:
-- Introduction to Machine Learning with Python. *Data Science Conference 2026*. San Francisco, CA. March 15, 2026 (3 hours)
-- Cloud Computing for Scientific Research. *Cloud Summit 2026*. Seattle, WA. February 10, 2026 (2 hours)
+- Point cloud classification with LiDAR and photogrammetry, plus artificial intelligence applications. Specialization course, *Educare Internacional S.A.C.* Peru. August–September 2025
+- Introduction to LiDAR360 and environment setup. *Arturo Rauda Ingeniería Geomática*. Mexico. July 2025
 :::
 
-:::{dropdown} 2025
-- Open-Source Tools for Data Analysis. *PyCon 2025*. Pittsburgh, PA. April 20, 2025 (4 hours)
-- Deep Learning Workshop. *NeurIPS 2025*. Vancouver, Canada. December 8, 2025 (3 hours)
+:::{dropdown} 2023
+- Interpretation and processing of satellite imagery with QGIS. *Drones y Tecnología SRL (DRONTEC)*. La Paz, Bolivia. August 2023
+:::
+
+:::{dropdown} 2022
+- Advanced Photogrammetry Program: use and processing of P4RTK drone (RPAS) data. *EPSAS*. La Paz, Bolivia. November–December 2022
+- Satellite Photogrammetry. *Colegio de Ingenieros Geógrafos de Bolivia (CIGEO)*. March–April 2022
+:::
+
+:::{dropdown} 2021
+- Geographic Information Systems (GIS). *Educational Training Center*. La Paz, Bolivia. November–December 2021
 :::
 
 ---
 
 ## Invited Talks
 
-(10+ invited talks at conferences and universities)
+(7 talks given at Bolivian universities and at Latin American conferences)
 
-:::{dropdown} 2026
+:::{dropdown} 2018
 :open:
-- "Scalable Data Science with Open-Source Tools." Keynote at *International Data Science Conference*. New York, NY. April 5, 2026
-- "The Future of Open-Source Scientific Software." Invited talk at *Example University Colloquium*. Boston, MA. March 1, 2026
+- "Proposal for a Local Transverse Mercator (LTM) projection with Local Topographic Planes (PTL) for large-scale projects." *Universidad Loyola*. La Paz, Bolivia. October 25, 2018
+- "Application of geomatics in the formation and maintenance of rural cadastre in Bolivia." *Universidad San Francisco Xavier de Chuquisaca, Faculty of Technology — Geodesy and Surveying*. Sucre, Bolivia. April 21, 2018
 :::
 
-:::{dropdown} 2025
-- "Machine Learning for Environmental Science." Invited talk at *Environmental Data Summit*. Denver, CO. October 15, 2025
-- "Building Open-Source Communities." Invited talk at *Open Source Summit*. Austin, TX. June 20, 2025
+:::{dropdown} 2017
+- "Application of the ALS70-HP system integrated with the RCD30 aerial camera for urban cadastre purposes." *XVI Meeting of Latin American Geographers (EGAL 2017)*, Universidad Mayor de San Andrés. La Paz, Bolivia. April 29, 2017
+- "Digital photogrammetry and LiDAR imagery applications in urban cadastre." *Universidad San Francisco Xavier de Chuquisaca, Faculty of Technology*. Sucre, Bolivia. March 30, 2017
 :::
 
----
-
-## Conference Proceedings
-
-**J. Doe**, A. Smith. "Efficient distributed computing for large-scale data." *Proceedings of the International Conference on Data Engineering (ICDE)*. 2025.
-
-B. Johnson, **J. Doe**. "Neural network architectures for spatial data." *Proceedings of the AAAI Conference on Artificial Intelligence*. 2024.
-
----
-
-## Conference Presentations
-
-:::{dropdown} 2026
-:open:
-- **J. Doe**. "Advances in open-source data science tools." *AAAS Annual Meeting*. Phoenix, AZ. February 2026.
+:::{dropdown} 2016
+- "Remote sensing in disasters, change and climate adaptation." *Universidad Mayor de San Andrés, Faculty of Geological Sciences*. La Paz, Bolivia. October 5, 2016
+- "Photogrammetric flight planning and the applications of aerial photographs." *Universidad San Francisco Xavier de Chuquisaca, Faculty of Technology — Surveying*. Sucre, Bolivia. April 4, 2016
 :::
 
-:::{dropdown} 2025
-- **J. Doe**, A. Johnson. "Cloud-based machine learning pipelines." *AGU Fall Meeting*. New Orleans, LA. December 2025.
-- **J. Doe**. "Open-source tools for reproducible research." *SciPy Conference*. Austin, TX. July 2025.
+:::{dropdown} 2014
+- Speaker, *GeoEMI 2014 Earth Sciences Conference Cycle*. Escuela Militar de Ingeniería, La Paz, Bolivia. November 28, 2014
 :::

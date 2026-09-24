@@ -203,24 +203,6 @@ def find_subsections(text):
     return results
 
 
-def parse_cards(text):
-    """Parse :::{card} blocks into list of (name, link, description)."""
-    results = []
-    for m in re.finditer(
-        r":::\{card\}[ \t]+([^\n]+?)\n:link:\s*(.+?)\n(.*?)\n:::(?![:\{])",
-        text,
-        re.DOTALL,
-    ):
-        name = m.group(1).strip()
-        link = m.group(2).strip()
-        desc = m.group(3).strip()
-        desc = re.sub(r"```\{image\}.*?```", "", desc, flags=re.DOTALL)
-        desc = re.sub(r"\n+", " ", desc).strip()
-        if name:
-            results.append((name, link, desc))
-    return results
-
-
 def table_to_items(text):
     """Convert markdown table rows to Typst resume-item bullet list."""
     rows = parse_table(text)
@@ -273,22 +255,18 @@ def gen_preamble():
   font: {_typst_font_value(CV_FONT)},
   header-font: {_typst_font_value(CV_HEADER_FONT)},
   author: (
-    firstname: "Jane",
-    lastname: "Doe",
-    email: "jane.doe@example.com",
-    phone: "(+1) 234-567-8901",
-    homepage: "https://example.com",
-    github: "username",
-    address: "123 Science Building, Example University, Anytown, ST 12345",
+    firstname: "Boris R.",
+    lastname: "Fernandez Astro",
+    email: "fernandezastro@gmail.com",
+    phone: "(+591) 73731060",
+    address: "La Paz, Bolivia",
     positions: (
-      "Assistant Professor",
-      "Data Scientist",
+      "HD Map Engineer",
+      "LiDAR & Photogrammetry Specialist",
     ),
     custom: (
-      (text: "username", icon: "twitter", link: "https://twitter.com/username"),
-      (text: "Jane Doe", icon: "linkedin", link: "https://www.linkedin.com/in/username"),
-      (text: "Jane Doe", icon: "google-scholar", link: "https://scholar.google.com"),
-      (text: "0000-0000-0000-0000", icon: "orcid", link: "https://orcid.org/0000-0000-0000-0000"),
+      (text: "Boris R. Fernandez Astro", icon: "linkedin", link: "https://www.linkedin.com/in/boris-roger-fernandez-astro-893594b4/"),
+      (text: "Upwork profile", icon: "briefcase", link: "https://www.upwork.com/freelancers/~01b9854a9627590bb9"),
     ),
   ),
   profile-picture: none,
@@ -304,7 +282,7 @@ def gen_preamble():
 #set heading(bookmarked: true)
 
 // Set PDF document title
-#set document(title: "Jane Doe - CV")"""
+#set document(title: "Boris R. Fernandez Astro - CV")"""
 
 
 def gen_education(about):
@@ -406,8 +384,8 @@ def gen_books(research):
 
 
 def gen_publications(research):
-    """Generate Refereed Publications section from research.md."""
-    section = extract_section(research, "## Refereed Publications")
+    """Generate Publications section from research.md."""
+    section = extract_section(research, "## Publications")
     if not section:
         return ""
 
@@ -417,7 +395,7 @@ def gen_publications(research):
         summary = escape_typst(m.group())
 
     dropdowns = parse_dropdowns(section)
-    lines = [f"= Refereed Publications\n\n{summary}"]
+    lines = [f"= Publications\n\n{summary}"]
 
     for label, content in dropdowns:
         entries = split_entries(content)
@@ -461,22 +439,14 @@ def gen_grants(research):
 
 
 def gen_software(software):
-    """Generate Open-Source Software section from software.md."""
-    cards = parse_cards(software)
-    if not cards:
-        return ""
-    lines = ["= Open-Source Software", ""]
-    items = []
-    for name, link, desc in cards:
-        escaped_name = escape_typst(name)
-        gh_path = link.replace("https://github.com/", "")
-        gh_inline = f'#box(baseline: 1pt, fa-icon("github", fill: color-darknight)) #link("{link}")[{gh_path}]'
-        if desc:
-            items.append(f"  - *{escaped_name}*: {escape_typst(desc)} ({gh_inline})")
-        else:
-            items.append(f"  - *{escaped_name}* ({gh_inline})")
-    lines.append("#resume-item[\n" + "\n".join(items) + "\n]")
-    return "\n".join(lines)
+    """Generate Software & Tools section from the tables in software.md."""
+    parts = []
+    for m in re.finditer(r"^## (.+)$", software, re.MULTILINE):
+        items = table_to_items(extract_section(software, m.group(0)))
+        if items:
+            parts.append(f"== {escape_typst(m.group(1))}\n")
+            parts.append(items)
+    return "= Software & Tools\n\n" + "\n\n".join(parts) if parts else ""
 
 
 def gen_teaching(teaching):

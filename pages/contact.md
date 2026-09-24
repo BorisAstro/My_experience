@@ -1,22 +1,25 @@
 ---
 title: Contact
-description: Contact information for collaboration, speaking invitations, or questions.
+description: Contact details for HD mapping, LiDAR production, photogrammetry and geospatial engineering work.
+keywords:
+  - Contact
+  - HD Mapping
+  - LiDAR
+  - Freelance
 ---
 
 # Contact
 
-Feel free to reach out for collaboration, speaking invitations, or questions about open-source software.
+Open to remote HD mapping, LiDAR production, photogrammetry and geospatial engineering work, and to teaching and training engagements.
 
-**Email:** [jane.doe@example.com](mailto:jane.doe@example.com)
+**Email:** [fernandezastro@gmail.com](mailto:fernandezastro@gmail.com) · [boris@astrogeomatics.com](mailto:boris@astrogeomatics.com)
 
-**Phone:** +1-234-567-8901
+**Phone:** +591 73731060
 
-**Office:** [123 Science Building](https://maps.google.com), Example University, Anytown, ST 12345
+**Based in:** La Paz, Bolivia · 16°30′S 68°09′W · UTC−4 — a daily 04:00–14:00 US Pacific overlap
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/username) |
-[Twitter](https://twitter.com/username) |
-[GitHub](https://github.com/username) |
-[Google Scholar](https://scholar.google.com) |
-[ORCID](https://orcid.org/0000-0000-0000-0000)
+[LinkedIn](https://www.linkedin.com/in/boris-roger-fernandez-astro-893594b4/) |
+[Upwork](https://www.upwork.com/freelancers/~01b9854a9627590bb9) |
+[CV (PDF)](/cv.pdf)

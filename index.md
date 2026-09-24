@@ -1,77 +1,91 @@
 ---
-title: Jane Doe
-subtitle: Open-Source Software Engineer & Data Scientist
-description: Jane Doe, Assistant Professor at Example University, builds open-source tools for data science and machine learning.
-# thumbnail: images/profile-thumbnail.webp
+title: Boris R. Fernandez Astro
+subtitle: HD Map Engineer · LiDAR & Photogrammetry Specialist
+description: Boris R. Fernandez Astro builds lane-level Lanelet2 HD maps for autonomous vehicles, and processes airborne and mobile LiDAR, photogrammetry and geodetic data.
 ---
 
 ::::{grid} 1 1 2 2
 
 :::{grid-item}
-:columns: 12 12 4 4
 
 ```{image} logo.png
-:alt: Jane Doe
-:width: 95%
+:alt: Boris R. Fernandez Astro
+:width: 80%
 ```
 
 :::
 
 :::{grid-item}
-:columns: 12 12 8 8
 
-**Software Engineer** | **Data Scientist**
+**HD Map Engineer** | **LiDAR & Photogrammetry Specialist**
 
-[Department of Computer Science](https://example.com/cs), Example University
+GIS Specialist, Gatik AI Inc. — HD mapping for autonomous vehicles
 
-[123 Science Building](https://maps.google.com), Anytown, ST 12345
+Founder & Principal Geospatial Engineer, Astro Geomática
 
-[jane.doe@example.com](mailto:jane.doe@example.com) | [example.com](https://example.com)
+La Paz, Bolivia · 16°30′S 68°09′W · UTC−4
 
-**Research Interests:** Data Science, Machine Learning, Open-Source Software Development, Cloud Computing
+[fernandezastro@gmail.com](mailto:fernandezastro@gmail.com) | [boris@astrogeomatics.com](mailto:boris@astrogeomatics.com)
+
+**Focus:** Lanelet2 lane networks for autonomous vehicles, airborne and mobile LiDAR, photogrammetry, geodesy and map projections, 3D geospatial workflows
 
 [CV (PDF)](cv.pdf) |
-[Google Scholar](https://scholar.google.com) |
-[ORCID](https://orcid.org/0000-0000-0000-0000) |
-[LinkedIn](https://www.linkedin.com/in/username) |
-[GitHub](https://github.com/username) |
-[Twitter](https://twitter.com/username)
+[LinkedIn](https://www.linkedin.com/in/boris-roger-fernandez-astro-893594b4/) |
+[Upwork](https://www.upwork.com/freelancers/~01b9854a9627590bb9)
 
 :::
 ::::
 
 ---
 
-## Featured Projects
+## By the Numbers
 
-::::{grid} 2 2 4 4
+::::{grid} 2 2 3 3
 
-:::{card}
-:link: https://mystmd.org
-![mystmd](pages/images/myst.webp)
-+++
-**MyST**
+:::{card} 385 km²
+ALS LiDAR processed as project manager
 :::
 
-:::{card}
-:link: https://jupyterbook.org
-![jupyter-book](pages/images/jupyter-book.webp)
-+++
-**Jupyter Book**
+:::{card} 1,096 km²
+Stereo-satellite DEM & ortho, 9 airport AOIs
 :::
 
-:::{card}
-:link: https://jupyter.org
-![jupyter](pages/images/jupyter.webp)
-+++
-**Jupyter**
+:::{card} 18
+Airborne campaigns as ALS70/ALS80 sensor operator
 :::
 
-:::{card}
-:link: https://python.org
-![python](pages/images/python.webp)
+:::{card} 14
+Projects coordinated for the national air survey agency
+:::
+
+:::{card} 10 yrs
+Teaching photogrammetry, LiDAR & geodesy
+:::
+
+::::
+
+---
+
+## Flagship Production
+
+::::{grid} 1 1 3 3
+
+:::{card} Lanelet2 lane networks for autonomous trucking
+Phoenix metro corridors, Arizona. Feature extraction from mobile-mapping point clouds through full lane-network assembly, intersection slicing and regulatory associations.
 +++
-**Python**
+Lanelet2 / OSM · JOSM · MMS point clouds · GeoJSON
+:::
+
+:::{card} Airborne LiDAR & photogrammetric processing
+385 km² as project manager. Block definition, trajectory management, strip adjustment, classified-cloud DTM, orthophoto mosaic and CAD thematic cartography.
++++
+TerraScan · TerraMatch · TerraModeler · TerraPhoto · MicroStation · Spatix
+:::
+
+:::{card} Stereo-satellite DEM & orthomosaics
+1,096 km² over nine airport AOIs as project manager. Block adjustment with GCPs and check points, breaklines, edited DEM, 1 m contours, 50 cm orthoimagery.
++++
+ERDAS IMAGINE 16.7 · ORIMA-LPS
 :::
 
 ::::
@@ -80,46 +94,46 @@ description: Jane Doe, Assistant Professor at Example University, builds open-so
 
 ## Highlights
 
-::::{grid} 2 2 3 4
+::::{grid} 2 2 3 3
 
-:::{card} Publications 📚
+:::{card} About 🛰️
+:link: pages/about
+Profile, education and appointments
+:::
+
+:::{card} Research 📚
 :link: pages/research
-10+ Refereed Publications
+Publications on projections, LiDAR and cadastre
 :::
 
 :::{card} Software 💻
 :link: pages/software
-5+ Open-Source Projects
+Toolchain, sensors and automation
 :::
 
 :::{card} Teaching 🎓
 :link: pages/teaching
-5+ Courses Taught
+University and graduate courses since 2016
 :::
 
 :::{card} Talks 🎤
 :link: pages/talks
-10+ Invited Talks
+Workshops in Bolivia, Peru and Mexico
 :::
 
 :::{card} Awards 🏆
 :link: pages/awards
-5+ Awards & Honors
+Francisco Coello International Award and more
 :::
 
-:::{card} Community 🌍
+:::{card} Services 🏛️
 :link: pages/services
-Professional & institutional service
-:::
-
-:::{card} Blog ✍️
-:link: pages/blog
-Thoughts on research, software, and teaching
+Program governance and thesis review
 :::
 
 :::{card} News 📰
 :link: pages/news
-Latest updates and milestones
+Projects, courses and training by year
 :::
 
 ::::
@@ -128,9 +142,9 @@ Latest updates and milestones
 
 ## Recent News
 
-- **2026-04-01** - Launched personal website with MyST Markdown
-- **2026-03-15** - Published new paper on machine learning
-- **2026-02-01** - Released version 2.0 of open-source project
-- **2026-01-10** - Received Best Paper Award at Conference 2026
+- **2026-06-16** - Completed "Interactive web maps with PostGIS, GeoServer, Node.js and Angular", Graduate School, UPEA
+- **2025-11-17** - Taught the Python for geospatial technologies module, Graduate Unit of Geographic Engineering, UMSA
+- **2025-09-01** - Closed the LiDAR, photogrammetry and AI point cloud classification course for Educare Internacional, Peru
+- **2025-07-12** - Joined Gatik AI Inc. as GIS Specialist for HD mapping of autonomous-vehicle corridors in the Phoenix metro area
 
 [See all news →](pages/news)

@@ -1,20 +1,21 @@
 version: 1
 project:
-  title: Jane Doe
-  description: Personal website of Jane Doe, Assistant Professor at Example University, building open-source tools for data science.
+  title: Boris R. Fernandez Astro
+  description: Personal website of Boris R. Fernandez Astro — HD map engineer, LiDAR and photogrammetry specialist building Lanelet2 lane networks for autonomous vehicles.
   # thumbnail: images/profile-thumbnail.webp
   # authors:
-  #   - name: Jane Doe
-  #     email: jane.doe@example.com
-  #     orcid: 0000-0000-0000-0000
-  #     url: https://example.com
+  #   - name: Boris R. Fernandez Astro
+  #     email: fernandezastro@gmail.com
   #     affiliations:
-  #       - Example University
+  #       - Astro Geomática
   copyright: '2026'
   keywords:
-    - Data Science
-    - Open-source Software
-    - Machine Learning
+    - HD Mapping
+    - Lanelet2
+    - LiDAR
+    - Photogrammetry
+    - Geodesy
+    - GIS
   # github: username/repo
   exclude:
     - _build
@@ -41,11 +42,8 @@ project:
     - file: pages/talks.md
     - file: pages/awards.md
     - file: pages/services.md
-    - file: pages/contact.md
     - file: pages/news.md
-    - file: pages/blog.md
-    - pattern: blog/*.md
-      hidden: true
+    - file: pages/contact.md
 site:
   options:
     logo: logo.png
@@ -54,14 +52,11 @@ site:
     style: custom.css
     # analytics_google: G-XXXXXXXXXX
     folders: true
-  actions:
-    - title: RSS
-      url: https://opengeos.org/myst-cv-template/rss.xml
   template: book-theme
   parts:
     primary_sidebar_footer: ''
     footer: |
       [CV (PDF)](cv.pdf) |
-      [GitHub](https://github.com/username) |
-      [LinkedIn](https://www.linkedin.com/in/username) |
-      [Twitter](https://twitter.com/username)
+      [LinkedIn](https://www.linkedin.com/in/boris-roger-fernandez-astro-893594b4/) |
+      [Upwork](https://www.upwork.com/freelancers/~01b9854a9627590bb9) |
+      [fernandezastro@gmail.com](mailto:fernandezastro@gmail.com)
