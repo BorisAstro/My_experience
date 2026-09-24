@@ -24,9 +24,11 @@ The toolchain I work in daily, from lane-level HD map production to airborne LiD
 | Point clouds | **Terrasolid suite** (TerraScan, TerraMatch, TerraModeler, TerraPhoto) on MicroStation and Spatix, TopoDOT, LiDAR360, LAStools, Leica Cyclone 3DR, Trimble RealWorks, strip adjustment, trajectory management, classification and ground filtering, breaklines, DTM/DSM |
 | Photogrammetry | **Trimble Inpho** (ApplicationsMaster, UASMaster), ERDAS IMAGINE 16.7 with ORIMA-LPS, Catalyst Professional (PCI Geomatica), Agisoft Metashape, RealityCapture, aerial triangulation, stereo-satellite block adjustment, orthomosaics, SfM, UAV/RPAS |
 | Geodesy and GNSS | RTK / PPK / **PPP** (CSRS-PPP, MARGEN, ITRF2020), Trimble Business Center, Leica Infinity, Inertial Explorer, Helmert transformations, site calibration, least-squares network adjustment, geoid QC, CRS/EPSG and datum management, author of the LTM-PTL local projection |
-| GIS and remote sensing | **ArcGIS Pro**, QGIS, Global Mapper, Google Earth Engine, eCognition Developer (OBIA and deep learning), PostGIS, GeoServer, spatial databases and SDI, CAD thematic cartography |
+| GIS and remote sensing | **ArcGIS Pro**, QGIS, Global Mapper, Google Earth Engine, eCognition Developer (OBIA and deep learning), NV5 ENVI, PostGIS, GeoServer, spatial databases and SDI, CAD thematic cartography |
 | Programming | **Python** (ArcPy, PyQGIS, GDAL/OGR, geospatial libraries), JavaScript (Google Earth Engine), Excel VBA, SQL, PHP, HTML/CSS, AWS EC2 GPU virtual workstations, cloud processing pipelines |
-| 3D and visualization | Blender and BlenderGIS, ESRI CityEngine, Unreal Engine (geospatial), geospatial VR/XR, 3D-printing model preparation from DTM/DSM and point clouds, animation rendering |
+| 3D and visualization | Blender and BlenderGIS, ESRI CityEngine, Unreal Engine (geospatial applications, in progress), geospatial VR/XR, 3D-printing model preparation from DTM/DSM and point clouds, animation rendering |
+
+Licensed in house: Agisoft Metashape and LiDAR360. The rest I work with in client, employer and institutional environments.
 
 ---
 

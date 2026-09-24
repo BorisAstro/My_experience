@@ -14,12 +14,15 @@ Open to remote HD mapping, LiDAR production, photogrammetry and geospatial engin
 
 **Email:** [astrogeomatica@gmail.com](mailto:astrogeomatica@gmail.com)
 
+**Website:** [astrogeomatics.com](https://astrogeomatics.com/)
+
 **Phone:** +591 73731060
 
 **Based in:** La Paz, Bolivia · 16°30′S 68°09′W · UTC−4 — a daily 04:00–14:00 US Pacific overlap
 
 ## Connect
 
+[astrogeomatics.com](https://astrogeomatics.com/) |
 [LinkedIn](https://www.linkedin.com/in/boris-roger-fernandez-astro-893594b4/) |
 [Upwork](mailto:astrogeomatica@gmail.com?subject=Upwork%20profile%20link%20request) |
 [CV (PDF)](/cv.pdf)

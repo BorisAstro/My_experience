@@ -74,3 +74,5 @@ I have taught photogrammetry, LiDAR, cartography, geodesy and geospatial program
 | Optimization of the LiDAR data workflow for the cartographic projects of the Servicio Nacional de Aerofotogrametría | LiDAR production |
 | Determination of the relative and absolute accuracy of photogrammetric restitution using Structure from Motion (SfM) software | SfM accuracy |
 | Systematized cloud workflow for the generation and evaluation of aerial photogrammetric products | Cloud processing |
+| Technical methodology for generating a 3D cadastre through aerial photogrammetry with a Matrice 300 RTK drone (urban area of Viacha) | 3D cadastre and UAV |
+| Methodological development with artificial intelligence for updating the physical cadastre of the municipality of La Paz (Irpavi zone) | AI and cadastre |
