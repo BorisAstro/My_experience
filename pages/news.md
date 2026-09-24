@@ -25,7 +25,7 @@ A running log of projects delivered, courses taught and training completed, orga
 - **2025-11-17** - Taught the Python for geospatial technologies module, Graduate Unit of Geographic Engineering, UMSA
 - **2025-09-01** - Closed the specialization course on point cloud classification with LiDAR, photogrammetry and AI for Educare Internacional, Peru
 - **2025-07-31** - Delivered "Introduction to LiDAR360 and environment setup" for Arturo Rauda Ingeniería Geomática, Mexico
-- **2025-07-12** - Joined Gatik AI Inc. as GIS Specialist for HD mapping of autonomous-vehicle corridors in the Phoenix metro area
+- **2025-07-12** - Joined a U.S. autonomous trucking company as GIS Specialist for HD mapping of public-road corridors
 
 :::
 
