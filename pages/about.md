@@ -12,7 +12,7 @@ keywords:
 
 # About
 
-I build the maps autonomous vehicles drive on — and everything upstream of them. Since July 2025 I produce lane-level **Lanelet2 (OSM) HD maps** for autonomous trucking corridors in the Phoenix, Arizona metro area: extracting lane markings, curbstones, road edges, stop lines, signs and traffic lights from mobile-mapping LiDAR point clouds, then assembling the connected lane network — boundaries, virtual and turning lines, cut lines at every intersection, slicing at condition changes, and the regulatory associations that bind lanes to signals and signage.
+I build the maps autonomous vehicles drive on — and everything upstream of them. Since July 2025 I produce lane-level **Lanelet HD maps** for autonomous trucking corridors in some states of USA: extracting lane markings, curbstones, road edges, stop lines, signs and traffic lights from mobile-mapping LiDAR point clouds, then assembling the connected lane network — boundaries, virtual and turning lines, cut lines at every intersection, slicing at condition changes, and the regulatory associations that bind lanes to signals and signage.
 
 Behind that sits a decade in the part of the chain where centimeter accuracy is actually decided. I flew as the **Leica ALS70-HP / ALS80-HP sensor operator** on eighteen airborne campaigns, managed the processing of 385 km² of ALS LiDAR and 1,096 km² of stereo-satellite DEM and orthoimagery, and controlled geodetic networks, datums and projections closely enough to publish Bolivia's **LTM-PTL** standardized local projection proposal. Photogrammetry lecturer since 2016, founder of Astro Geomática, and an independent researcher by habit.
 
@@ -37,7 +37,7 @@ Professional registry: **R.N.I. 32.280**.
 
 | Period | Position |
 |--------|----------|
-| Jul 2025--present | GIS Specialist — HD Mapping for Autonomous Vehicles, Gatik AI Inc. (remote; Phoenix metro corridors, Arizona, USA) |
+| Jul 2025--present | GIS Specialist — HD Mapping for Autonomous Vehicles, U.S. based company. (remote; USA) |
 | Nov 2021--present | Founder and Principal Geospatial Engineer, Astro Geomática, La Paz, Bolivia |
 | 2016--2026 | Faculty, Geographic Engineering, Escuela Militar de Ingeniería (EMI) |
 | 2022--2024 | Specialist Consultant — LiDAR and Photogrammetry, Servicio Nacional de Aerofotogrametría (Bolivia's national aerial survey agency) |
@@ -51,12 +51,11 @@ Professional registry: **R.N.I. 32.280**.
 
 ### GIS Specialist — HD Mapping for Autonomous Vehicles
 
-**Gatik AI Inc.** · remote · Phoenix metro corridors, Arizona, USA · Jul 2025 – present
+**U.S. based company** · remote · USA · Jul 2025 – present
 
-- Produce lane-level **HD maps in Lanelet2 / OSM format** for public-road autonomous trucking corridors, working in JOSM and in the client's Gatik Horizon web platform.
+- Produce lane-level **HD maps in Lanelet2 / OSM format** for public-road autonomous trucking corridors, working in JOSM and in the client's web platform.
 - Extract road features from mobile-mapping LiDAR point clouds and co-registered imagery: lane markings, curbstones, road edges, stop lines, traffic signs and traffic lights.
 - Assemble complete lane networks — boundaries, virtual and turning lines, cut lines at every intersection, slicing at condition changes — and build regulatory associations linking lanes to signals, stop lines and signage.
-- Own coordinate-reference integrity across deliveries (**EPSG:32612 / UTM 12N**); identified and corrected a batch of DTMs delivered in the wrong UTM zone before the error propagated downstream.
 - Authored a **route-stationing tile-naming specification** for MMS point clouds — mile-based chainage along the route centerline and LiDAR trajectory, 2 GB per-tile ceiling — replacing square UTM-grid naming so tiling follows acquisition and route planning.
 - Coordinate and quality-check an in-house digitizing team; deliver signed technical documentation and coordinate daily with the client in English.
 
