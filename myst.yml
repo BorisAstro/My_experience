@@ -44,6 +44,7 @@ project:
     - file: pages/services.md
     - file: pages/news.md
     - file: pages/contact.md
+    - file: pages/cv-es.md
 site:
   options:
     logo: logo.png
@@ -56,6 +57,7 @@ site:
   parts:
     primary_sidebar_footer: ''
     footer: |
+      [CV en español](pages/cv-es) |
       [astrogeomatics.com](https://astrogeomatics.com/) |
       [CV (PDF)](cv.pdf) |
       [LinkedIn](https://www.linkedin.com/in/boris-roger-fernandez-astro-893594b4/) |
