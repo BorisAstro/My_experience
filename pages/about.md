@@ -47,7 +47,7 @@ de la proyección LTM-PTL con parámetros normalizados para Bolivia"*.
 | 2022--2024 | Specialist Consultant — LiDAR and Photogrammetry, Servicio Nacional de Aerofotogrametría (Bolivia's national aerial survey agency) |
 | 2019--2021 | Spatial Information Lead / Cartography Lead, Wildlife Conservation Society Bolivia |
 | Dec 2015--Dec 2018 | Head, Project Evaluation Section, Servicio Nacional de Aerofotogrametría |
-| 2013--2015 | GIS and Remote Sensing Consultant — FAO, OTCA, Instituto Geográfico Militar, NetDesign-IT |
+| 2014--2015 | GIS and Remote Sensing Consultant — FAO, OTCA, Instituto Geográfico Militar, NetDesign-IT |
 
 ---
 
@@ -100,7 +100,7 @@ de la proyección LTM-PTL con parámetros normalizados para Bolivia"*.
 
 ### GIS and Remote Sensing Consultant
 
-**FAO · OTCA · Instituto Geográfico Militar · NetDesign-IT** · 2013 – 2015
+**FAO · OTCA · Instituto Geográfico Militar · NetDesign-IT** · 2014 – 2015
 
 Municipal planimetry production for Cobija (Instituto Geográfico Militar); remote-sensing data cleaning for Bolivia's 2013 Forest Map (FAO and the General Directorate of Forest Management); Pan-Amazonian deforestation and land-use-change monitoring (OTCA Bolivia Observation Room); technical digitizer for the "Roads and Departmental Highways" working tables, Departmental Government of La Paz.
 
