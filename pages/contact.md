@@ -24,5 +24,5 @@ Open to remote HD mapping, LiDAR production, photogrammetry and geospatial engin
 
 [astrogeomatics.com](https://astrogeomatics.com/) |
 [LinkedIn](https://www.linkedin.com/in/boris-roger-fernandez-astro-893594b4/) |
-[Upwork](mailto:astrogeomatica@gmail.com?subject=Upwork%20profile%20link%20request) |
+[Upwork (on request)](mailto:astrogeomatica@gmail.com?subject=Upwork%20profile%20link%20request) |
 [CV (PDF)](/cv.pdf)

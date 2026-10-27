@@ -18,7 +18,7 @@ La Paz, Bolivia · 16°30′S 68°09′W · UTC−4 · Registro profesional **R.
 [astrogeomatica@gmail.com](mailto:astrogeomatica@gmail.com) ·
 [astrogeomatics.com](https://astrogeomatics.com/) ·
 [LinkedIn](https://www.linkedin.com/in/boris-roger-fernandez-astro-893594b4/) ·
-[Upwork](mailto:astrogeomatica@gmail.com?subject=Upwork%20profile%20link%20request) ·
+[Upwork (a solicitud)](mailto:astrogeomatica@gmail.com?subject=Solicitud%20de%20perfil%20Upwork) ·
 [CV en inglés (PDF)](/cv.pdf)
 
 ---

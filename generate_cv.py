@@ -267,7 +267,7 @@ def gen_preamble():
     ),
     custom: (
       (text: "Boris R. Fernandez Astro", icon: "linkedin", link: "https://www.linkedin.com/in/boris-roger-fernandez-astro-893594b4/"),
-      (text: "Upwork profile", icon: "briefcase", link: "mailto:astrogeomatica@gmail.com?subject=Upwork%20profile%20link%20request"),
+      (text: "Upwork (on request)", icon: "briefcase", link: "mailto:astrogeomatica@gmail.com?subject=Upwork%20profile%20link%20request"),
     ),
   ),
   profile-picture: none,
