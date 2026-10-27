@@ -11,6 +11,7 @@ keywords:
 
 | Year | Award |
 |------|-------|
+| 2026 | **'Julio Sanjinés Goytia' Career Achievement Award for contributing to the prestige of the Military School of Engineering (EMI)** Escuela Militar de Ingeniería |
 | 2018--2021 | Teaching Merit Diploma (four consecutive years), Universidad Loyola |
 | 2016 | Letter of commendation, Servicio Nacional de Aerofotogrametría |
 | 2015 | **1st place, Francisco Coello International Award, 16th edition** — Escuela Politécnica Superior, Universidad de Jaén, Spain |

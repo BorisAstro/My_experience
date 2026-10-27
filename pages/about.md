@@ -58,9 +58,11 @@ de la proyección LTM-PTL con parámetros normalizados para Bolivia"*.
 **U.S. based company** · remote · USA · Jul 2025 – present
 
 - Produce lane-level **HD maps in Lanelet2 / OSM format** for public-road autonomous trucking corridors, working in JOSM and in the client's web platform.
-- Delivered **250 km of 3D HD cartography** along autonomous trucking corridors.
+- Delivered **320 km of 3D HD cartography** along autonomous trucking corridors.
 - Extract road features from mobile-mapping LiDAR point clouds and co-registered imagery: lane markings, curbstones, road edges, stop lines, traffic signs and traffic lights.
 - Assemble complete lane networks — boundaries, virtual and turning lines, cut lines at every intersection, slicing at condition changes — and build regulatory associations linking lanes to signals, stop lines and signage.
+- Built a **QGIS 4 plugin (Python / PyQGIS) with 50+ tools** that automates the HD-mapping workflow: lanelet centerline and turn-path generation, regulatory association tools, 2D-to-3D draping over the DTM, ID management, route-stationing tiling and a pre-delivery validator that checks every layer against the client's specification. Rolled out to the digitizing team through GitHub, with a public edition.
+- Built an **AI-based detection pipeline for vertical signage** that combines mobile-mapping imagery and LiDAR to locate stop and speed-limit signs (MUTCD R1-1, R2-1) and traffic-light heads, and extract each sign face as a 3D polygon tagged with its MUTCD code, using sign inventories from previous projects as training data.
 - Authored a **route-stationing tile-naming specification** for MMS point clouds — mile-based chainage along the route centerline and LiDAR trajectory, 2 GB per-tile ceiling — replacing square UTM-grid naming so tiling follows acquisition and route planning.
 - Coordinate and quality-check an in-house digitizing team; deliver signed technical documentation and coordinate daily with the client in English.
 
