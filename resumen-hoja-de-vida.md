@@ -64,7 +64,7 @@ Cel. +591 73731060 · astrogeomatica@gmail.com · astrogeomatics.com
 
 | N.º | Cargo / función especializada | Ámbito | Resultado verificable |
 |-----|-------------------------------|--------|-----------------------|
-| 1 | Especialista SIG en cartografía HD Lanelet2 (OSM) para vehículos autónomos — Gatik AI Inc. | Extranjero | 250 km de cartografía HD 3D entregada; autoría de la especificación de nomenclatura de teselas por estacionamiento de ruta |
+| 1 | Especialista SIG en cartografía HD Lanelet2 (OSM) para vehículos autónomos — Gatik AI Inc. | Extranjero | 320 km de cartografía HD 3D entregada; autoría de la especificación de nomenclatura de teselas por estacionamiento de ruta |
 | 2 | Operador del sensor LiDAR aerotransportado Leica ALS70-HP / ALS80-HP con cámara métrica RCD30 — Servicio Nacional de Aerofotogrametría | Nacional | 18 campañas de vuelo (2016–2017), incluido el vuelo de calibración del ALS80-HP |
 | 3 | Jefe de la Sección Evaluación de Proyectos y coordinador interno de proyectos — Servicio Nacional de Aerofotogrametría | Nacional | 14 proyectos coordinados de LiDAR, fotogrametría, geodesia y topografía (líneas de transmisión 500 kV, 115 kV, hidroeléctricas, red geodésica del Salar de Uyuni) |
 | 4 | Jefe de proyecto en procesamiento LiDAR aerotransportado y clasificación automatizada con inteligencia artificial — Astro Geomática | Nacional y extranjero | 385 km² de LiDAR ALS procesados; 4.413 ha en Columbus, Ohio (EE. UU.) con 85 % de clasificación automática mediante métodos de clasificación, segmentación y deep learning |

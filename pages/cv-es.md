@@ -35,7 +35,7 @@ Detrás de eso hay una década en la parte de la cadena donde realmente se decid
 
 | Magnitud | Detalle |
 |----------|---------|
-| **250 km** | Cartografía HD 3D entregada en corredores de transporte autónomo |
+| **320 km** | Cartografía HD 3D entregada en corredores de transporte autónomo |
 | **4.413 ha** | LiDAR aerotransportado clasificado al 85 % con deep learning (Columbus, Ohio) |
 | **385 km²** | LiDAR ALS y procesamiento fotogramétrico como jefe de proyecto |
 | **1.096 km²** | MDE y ortomosaicos satelitales estéreo en 9 áreas aeroportuarias |
@@ -62,7 +62,7 @@ Detrás de eso hay una década en la parte de la cadena donde realmente se decid
 **Empresa estadounidense** · remoto · EE. UU. · Jul 2025 – actualidad
 
 - Producción de **mapas HD a nivel de carril en formato Lanelet2 / OSM** para corredores de transporte autónomo en vía pública, trabajando en JOSM y en la plataforma web del cliente.
-- Entrega de **250 km de cartografía HD 3D** a lo largo de corredores de transporte autónomo.
+- Entrega de **320 km de cartografía HD 3D** a lo largo de corredores de transporte autónomo.
 - Extracción de elementos viales desde nubes de puntos LiDAR de sistemas móviles de mapeo e imagen corregistrada: marcas viales, cordones, bordes de calzada, líneas de parada, señales verticales y semáforos.
 - Ensamblado completo de redes de carriles — límites, líneas virtuales y de giro, líneas de corte en cada intersección, seccionamiento en los cambios de condición — y construcción de asociaciones regulatorias que vinculan carriles con semáforos, líneas de parada y señalización.
 - Autoría de una **especificación de nomenclatura de teselas por estacionamiento de ruta** para nubes de puntos MMS: progresiva en millas a lo largo del eje de la ruta y de la trayectoria LiDAR, con techo de 2 GB por tesela, en reemplazo de la nomenclatura por grilla UTM cuadrada, de modo que el teselado siga la adquisición y la planificación de ruta.

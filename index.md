@@ -44,7 +44,7 @@ La Paz, Bolivia · 16°30′S 68°09′W · UTC−4
 
 ::::{grid} 2 2 3 3
 
-:::{card} 250 km
+:::{card} 320 km
 3D HD cartography delivered for autonomous trucking corridors
 :::
 
